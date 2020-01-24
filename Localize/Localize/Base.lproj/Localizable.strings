@@ -1,0 +1,8 @@
+/* 
+  File.strings
+  Localize
+
+  Created by Naveen on 21/01/20.
+  Copyright © 2020 Local. All rights reserved.
+*/
+"Hello, World!"  = "My Name is Khan";
